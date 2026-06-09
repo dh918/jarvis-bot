@@ -9,8 +9,8 @@ import logging
 # ==========================================
 # 1. SETUP YOUR KEYS HERE
 # ==========================================
-TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN_HERE"
-GEMINI_API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+TELEGRAM_BOT_TOKEN = 8807689593:AAHox8yJhujOm6TD8h7Y6OsnNoF8ANtnlEE
+GEMINI_API_KEY = AQ.Ab8RN6IljqNqtd_Cx3UP89gPmKzTdxST-QJZKxYCllouJzgEDw
 
 # ==========================================
 # 2. AUTONOMOUS RESEARCHER MODULE
